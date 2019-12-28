@@ -1,0 +1,202 @@
+ body {
+  background-color: #F3F3F3;
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+ }
+
+.top-container {
+  height: 30%;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 15px;
+}
+
+.box-left {
+  background-color: white;
+  width: 47%;
+  border-radius: 30px;
+  height: 200px;
+  margin: 1% 1% 1% 2%;
+  position: relative;
+}
+
+.box-right {
+  background-color: white;
+  width: 47%;
+  border-radius: 30px;
+  height: 200px;
+  margin: 1% 2% 1% 1%;
+  position: relative;
+}
+
+.box-wide {
+  background-color: white;
+  width: 100%;
+  border-radius: 30px;
+  height: 120px;
+  line-height: 120px;
+  font-size: 2em;
+
+  margin: 3px 30px 0px 30px;
+  position: relative;
+}
+
+
+
+
+.flag-icon {
+  background-color: #ED3833;
+  display: inline-block;
+  border-radius: 60px;
+  box-shadow: 0px 0px 2px yellow;
+  padding: 0.5em 0.6em;
+  position: absolute;
+  left: 20px;
+  font-size: 2.5em;
+  color: white;
+}
+
+
+
+
+
+.calendar-icon {
+  background-color: #3E64FF;
+  display: inline-block;
+  border-radius: 60px;
+  box-shadow: 0px 0px 2px yellow;
+  padding: 0.5em 0.6em;
+  position: absolute;
+  left: 20px;
+  font-size: 2.5em;
+  color: white;
+
+}
+
+.clock-icon {
+  background-color: orange;
+  display: inline-block;
+  border-radius: 60px;
+  box-shadow: 0px 0px 2px yellow;
+  position: absolute;
+  left: 20px;
+  font-size: 5em;
+  color: white;
+
+}
+
+
+
+.inbox-icon {
+  background-color: #393E46;
+  display: inline-block;
+  border-radius: 60px;
+  box-shadow: 0px 0px 2px yellow;
+  padding: 0.5em 0.5em;
+  position: absolute;
+  left: 20px;
+  font-size: 2.5em;
+  color: white;
+
+
+
+}
+
+.numbers {
+
+  float: right;
+  margin-right: 10px;
+  font-size: 4em;
+}
+
+.today {
+
+  height: 50px;
+  line-height: 50px;
+  font-size: 2.5em;
+  color: #5C5757;
+  margin-left: 20px;
+  padding: 10px;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+.bottom-container {
+  background-color: white;
+  width: 100%;
+  border-radius: 25px;
+}
+
+
+.list-icon-1 {
+  background-color: #FF971D;
+  border-radius: 60px;
+  box-shadow: 0px 0px 2px yellow;
+  padding: 0.4em 0.4em;
+  font-size: 2.5em;
+  margin-top: 10px;
+  color: white;
+
+}
+
+
+
+
+
+
+.list-icon-2 {
+
+  background-color: #09A8FA;
+  border-radius: 60px;
+  box-shadow: 0px 0px 2px yellow;
+  padding: 0.4em 0.4em;
+  font-size: 2.5em;
+  margin-top: 10px;
+  color: white;
+
+
+
+
+  }
+
+  .list-icon-3 {
+
+    background-color: #FFD800;
+    border-radius: 60px;
+    box-shadow: 0px 0px 2px yellow;
+    padding: 0.4em 0.4em;
+    font-size: 2.5em;
+    margin-top: 10px;
+    color: white;
+
+}
+
+
+.list-icon-4 {
+
+
+  background-color: #4EF037;
+  border-radius: 60px;
+  box-shadow: 0px 0px 2px yellow;
+  padding: 0.4em 0.4em;
+  font-size: 2.5em;
+  margin-top: 10px;
+  color: white;
+}
+
+.list-icon-5 {
+  background-color: #3E64FF;
+  border-radius: 60px;
+  box-shadow: 0px 0px 2px yellow;
+  padding: 0.4em 0.4em;
+  font-size: 2.5em;
+  margin-top: 10px;
+  color: white;
+
+
+
+
+}
